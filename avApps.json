@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Vilent",
+    "description": "An anonymous messenger that uses a server to communicate.",
+    "url": "https://github.com/EnergyGuineaPig/janekInstallers/releases/download/v1/VilentSetup.exe",
+    "file_name": "VilentSetup.exe"
+  },
+  {
+    "name": "Jome",
+    "description": "A simple web browser made in Python.",
+    "url": "https://github.com/EnergyGuineaPig/janekInstallers/releases/download/v1/Jome_setup1.7.exe",
+    "file_name": "Jome_setup1.7.exe"
+  },
+  {
+    "name": "Batch Builder",
+    "description": "Simple idle app that lets you run .bat files with a click.",
+    "url": "https://github.com/EnergyGuineaPig/janekInstallers/releases/download/v1/BatchIdle.zip",
+    "file_name": "BatchIdle.zip"
+  },
+  {
+    "name": "Website Builder 2.1",
+    "description": "Create simple sites easily; fully customizable via extensions.",
+    "url": "https://github.com/EnergyGuineaPig/janekInstallers/releases/download/v1/WebsiteBuilderSetup2.1.exe",
+    "file_name": "WebsiteBuilderSetup2.1.exe"
+  }
+]
